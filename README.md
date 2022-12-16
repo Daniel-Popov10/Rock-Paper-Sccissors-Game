@@ -1,6 +1,7 @@
 # The "Rock-Paper-Scissors" Game
 
 ![alt text](https://futurism.com/_next/image?url=https%3A%2F%2Fwp-assets.futurism.com%2F2015%2F11%2Frock-paper-scissors.jpg&w=1080&q=75)
+
 This is a simple console game called "Rock Paper Scissors"
 
 # Explanation
