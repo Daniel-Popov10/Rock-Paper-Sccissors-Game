@@ -43,7 +43,7 @@ The computer will then also make his choice and the winner of the round will be 
 
 ## Demo
 
-You can try the game by clicking on this [link](https://replit.com/@DanielPopov2/rockPaperScissors#rockPaperScissors.js) or by clicking on the image down below and typing node rockPaperScissors.js in the shell window.
+You can try the game by clicking on this [link](https://replit.com/@DanielPopov2/rockPaperScissors#rockPaperScissors.js) or by clicking on the image down below and typing **node rockPaperScissors.js** in the shell window.
 
 
 [![image](https://user-images.githubusercontent.com/114098743/208098097-46579716-138b-42be-94ea-7389776790b8.png)](https://replit.com/@DanielPopov2/rockPaperScissors#rockPaperScissors.js)
