@@ -1,0 +1,23 @@
+{
+  "name": "rock-paper-sccissors-game",
+  "version": "1.0.0",
+  "description": "This is a simple console came called \"Rock Paper Scissors\"",
+  "main": "rockPaperScissors.js",
+  "scripts": {
+    "start": "node rockPaperScissors.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Popov10/Rock-Paper-Sccissors-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Popov10/Rock-Paper-Sccissors-Game/issues"
+  },
+  "homepage": "https://github.com/Daniel-Popov10/Rock-Paper-Sccissors-Game#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
