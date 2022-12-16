@@ -21,7 +21,7 @@ In a case where both sides chose the same option the outcome is a **draw**
 
 After the ending of each round the winning side is awarded with 5 points, the side to reach the maximum score of 25 points wins the game.
 
-# How to run the game and play the game
+# How to run and play the game
 
 in order to run and play the game type the following command in your console:
 
