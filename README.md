@@ -40,3 +40,7 @@ The computer will then also make his choice and the winner of the round will be 
 #### A screenshot of the game
 
 ![image](https://user-images.githubusercontent.com/114098743/208088180-d7332719-82df-46f4-bdfc-562b0ab18f5a.png)
+
+## You can try the game [here](https://replit.com/@DanielPopov2/rockPaperScissors#rockPaperScissors.js)
+
+
