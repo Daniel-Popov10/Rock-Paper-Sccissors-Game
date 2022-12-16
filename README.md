@@ -41,6 +41,13 @@ The computer will then also make his choice and the winner of the round will be 
 
 ![image](https://user-images.githubusercontent.com/114098743/208088180-d7332719-82df-46f4-bdfc-562b0ab18f5a.png)
 
-## You can try the game [here](https://replit.com/@DanielPopov2/rockPaperScissors#rockPaperScissors.js)
+## Demo
+
+You can try the game by clicking on this [link](https://replit.com/@DanielPopov2/rockPaperScissors#rockPaperScissors.js) or by clicking on the image down below and typing node rockPaperScissors.js in the shell window.
+
+
+[![image](https://user-images.githubusercontent.com/114098743/208098097-46579716-138b-42be-94ea-7389776790b8.png)](https://replit.com/@DanielPopov2/rockPaperScissors#rockPaperScissors.js)
+
+
 
 
